@@ -3,7 +3,7 @@
 @section('content')
 <div class="row">
     <div class="col">
-        <book-component></book-component>
+        <guest-component></guest-component>
     </div>
 </div>
 @endsection
